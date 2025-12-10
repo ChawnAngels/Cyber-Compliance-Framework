@@ -3,7 +3,7 @@
 The **Cyber-Compliance-Framework** is an open-source security and legal-compliance auditing toolkit.  
 It analyzes network configurations, security policies, and device settings, then evaluates them against major cybersecurity and regulatory standards such as **NIST**, **HIPAA**, **GDPR**, and the **FTC Safeguards Rule**.
 
-This project showcases the intersection of **network engineering**, **cybersecurity**, and **legal compliance**—designed for future tech-law workflows and automated auditing.
+This project showcases the intersection of **network engineering**, **cybersecurity**, and **legal compliance** designed for future tech law workflows and automated auditing.
 
 ---
 
