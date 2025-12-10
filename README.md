@@ -42,7 +42,7 @@ It is designed to grow into a modular, expandable compliance engine.
 
 ###  Reporting
 - Summary of findings  
-- Compliant / Non-Compliant flags  
+- Compliant / Non Compliant flags  
 - Recommended remediation steps  
 
 ---
@@ -61,7 +61,7 @@ It is designed to grow into a modular, expandable compliance engine.
 
 ### **Phase 4**
 - Web dashboard interface  
-- Multi-device scanning  
+- Multi device scanning  
 - Policy comparison tools  
 
 ---
