@@ -1,15 +1,6 @@
 # -----------------------------------------
 # signal_extractor.py
 # -----------------------------------------
-# Purpose:
-#   Convert raw device configuration text into
-#   simple "signals" that the compliance engine
-#   can understand.
-#
-# Why this matters:
-#   Compliance rules don't read switch configs.
-#   They read *facts*. This file extracts those facts.
-# -----------------------------------------
 
 def extract_signals(config_text):
     """
