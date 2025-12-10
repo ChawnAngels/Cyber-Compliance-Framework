@@ -25,22 +25,22 @@ It is designed to grow into a modular, expandable compliance engine.
 
 ---
 
-## 🔧 Core Features (Phase 1)
+##  Core Features (Phase 1)
 
-### ✔ Security Configuration Checks
+###  Security Configuration Checks
 - Password policy validation  
 - SSH/Telnet configuration safety  
 - VLAN/security segmentation warnings  
 - Logging/auditing verification  
 - Default credentials detection  
 
-### ✔ Intro-Level Compliance Mapping
+###  Intro-Level Compliance Mapping
 - Basic NIST 800-53 alignment  
 - HIPAA Security Rule considerations  
 - GDPR core principles alignment  
 - FTC Safeguards Rule checks  
 
-### ✔ Reporting
+###  Reporting
 - Summary of findings  
 - Compliant / Non-Compliant flags  
 - Recommended remediation steps  
@@ -66,5 +66,5 @@ It is designed to grow into a modular, expandable compliance engine.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
