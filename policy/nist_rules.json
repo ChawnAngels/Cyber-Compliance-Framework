@@ -1,0 +1,31 @@
+[
+    {
+        "id": "NIST-01",
+        "signal": "ssh_enabled",
+        "expected": true,
+        "severity": "high",
+        "description": "SSH must be enabled to ensure encrypted remote access."
+    },
+    {
+        "id": "NIST-02",
+        "signal": "telnet_enabled",
+        "expected": false,
+        "severity": "high",
+        "description": "Telnet should be disabled because it sends credentials unencrypted."
+    },
+    {
+        "id": "NIST-03",
+        "signal": "logging_present",
+        "expected": true,
+        "severity": "medium",
+        "description": "System should have logging enabled for auditing and monitoring."
+    },
+    {
+        "id": "NIST-04",
+        "signal": "password_minimum_length",
+        "expected": 8,
+        "severity": "medium",
+        "comparison": "gte",
+        "description": "Password minimum length must be at least 8 characters."
+    }
+]
