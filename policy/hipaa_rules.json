@@ -1,0 +1,24 @@
+[
+    {
+        "id": "HIPAA-01",
+        "signal": "logging_present",
+        "expected": true,
+        "severity": "high",
+        "description": "HIPAA requires audit logs for security monitoring."
+    },
+    {
+        "id": "HIPAA-02",
+        "signal": "password_minimum_length",
+        "expected": 10,
+        "severity": "medium",
+        "comparison": "gte",
+        "description": "HIPAA recommends strong password standards with minimum length."
+    },
+    {
+        "id": "HIPAA-03",
+        "signal": "ssh_enabled",
+        "expected": true,
+        "severity": "high",
+        "description": "Remote access must use secure encrypted channels."
+    }
+]
